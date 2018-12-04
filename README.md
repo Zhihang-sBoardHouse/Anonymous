@@ -4,6 +4,8 @@
 
 主文件是Anonymous.docx
 和Anonymous.pdf
+
+Anonymous.pdf可能会有更新延迟，最好自己把docx文件做成pdf
 <!--
 本模组使用可编译到HTML的Markdown编写
 
