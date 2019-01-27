@@ -2,16 +2,8 @@
 
 类coc-trpg规则模组Anonymous（无名之人）
 
-主文件是Anonymous.docx
-和Anonymous.pdf
+![知识共享许可协议](./LICENSE.png)
 
-Anonymous.pdf可能会有更新延迟，最好自己把docx文件做成pdf
-<!--
-本模组使用可编译到HTML的Markdown编写
-
-文件主体是Anonymous.md
-
-富文本资源放在src文件夹下
--->
+本作品采用[署名-非商业性使用-禁止演绎 3.0 中国大陆 (CC BY-NC-ND 3.0 CN)](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)进行许可。
 
 by [ZhihangLiu(lyzh)](https://github.com/Zhihang-Liu)
