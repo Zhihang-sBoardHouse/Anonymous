@@ -3,17 +3,27 @@
 - 版本 **0.1.0(Beta)**
 - 作者 **[lyzh](https://github.com/Zhihang-Liu)**
 
----
-
 ## 第零章 模组信息
 
 ---
 
-- 本模组的作者 **lyzh(Zhihang Liu)**
+- 本模组作者 **lyzh(Zhihang Liu)**
 - Github主页 **[https://github.com/Zhihang-Liu](https://github.com/Zhihang-Liu)**
 - 联系方式 **QQ2763036284**
+- 模组所属组织  **[https://github.com/Zhihang-sBoardHouse](https://github.com/Zhihang-sBoardHouse)**
+- 模组源码仓库 **[https://github.com/Zhihang-sBoardHouse/Anonymous](https://github.com/Zhihang-sBoardHouse/Anonymous)**
+
+`本文档使用Markdown编写，分几个样式版本：`
+
+1. 由VSCode拓展编译到html文件，**可以从Github文件服务器浏览**（下载到本地会找不到引用的图片等资源）[1]
+2. 由VSCode拓展编译到pdf文件，**可以从Github文件服务器浏览和下载**[2]
+3. 从Github Pages访问的markdown文件，经Markdown.js渲染，使用Github默认样式，**样式不可预料**
 
 > **本模组为COC跑团模组，使用COC七版规则改，但世界观并非为COC世界观，请注意。**
+
+`[1]: 位置`[https://github.com/Zhihang-sBoardHouse/Anonymous](https://github.com/Zhihang-sBoardHouse/Anonymous)
+
+`[2]: 位置`[https://github.com/Zhihang-sBoardHouse/Anonymous](https://github.com/Zhihang-sBoardHouse/Anonymous)
 
 ### 版权相关
 
@@ -61,8 +71,7 @@
 
 #### 逻辑地图
 
-> 包括气候图，政治地图等。
-> 物理地图请参考 **“瑞恩星世界地图”**
+> 包括气候图，政治地图等。物理地图请参考 “瑞恩星世界地图”
 
         从赤道说起，北纬0°以北绝大多数区域都是由半岛和群岛组成的。这里被叫做千湖之地，是帝国的后花园。
 
@@ -80,8 +89,6 @@
 
 #### 背景故事
 
----
-
 ## 第一章 给守秘人(KP)的信息
 
 ---
@@ -94,6 +101,6 @@
 
     本模组时代属于类第一次工业革命后（变种），属于电力科技树刚起步的蒸汽朋克世界。所以计算机使用这种鬼畜操作就别点了哈（当然其实可以当成差分机使用。。但我实在找不到什么用处）
 
-    甚至可以车穿越者（以便随时发神经），当然这种KP应当按情节给予相当的限制。
-
     预留一个不是必需的先知位（客串NPC），可以理解为模组提供的人物卡。这是给包括作者在内的看过模组的同学一个近距离观看KP大脑实时演算生成的CG留的位置，实际上能做的事非常有限。请KP务必不要泄露身份给调查员们。
+
+> 甚至可以车穿越者（以便随时发神经），当然这种KP应当按情节给予相当的限制。
